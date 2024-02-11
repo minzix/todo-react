@@ -1,3 +1,5 @@
+## 설명
+오픈소스수업 실습과제를 수행한 리포지토리입니다. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
